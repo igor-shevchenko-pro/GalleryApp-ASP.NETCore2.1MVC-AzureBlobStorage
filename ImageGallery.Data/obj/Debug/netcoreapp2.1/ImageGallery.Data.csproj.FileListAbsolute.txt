@@ -1,0 +1,10 @@
+D:\Programming\C#\ImageGallery\ImageGallery.Data\bin\Debug\netcoreapp2.1\ImageGallery.Data.deps.json
+D:\Programming\C#\ImageGallery\ImageGallery.Data\bin\Debug\netcoreapp2.1\ImageGallery.Data.dll
+D:\Programming\C#\ImageGallery\ImageGallery.Data\obj\Debug\netcoreapp2.1\ImageGallery.Data.AssemblyInfoInputs.cache
+D:\Programming\C#\ImageGallery\ImageGallery.Data\obj\Debug\netcoreapp2.1\ImageGallery.Data.AssemblyInfo.cs
+D:\Programming\C#\ImageGallery\ImageGallery.Data\bin\Debug\netcoreapp2.1\ImageGallery.Data.runtimeconfig.json
+D:\Programming\C#\ImageGallery\ImageGallery.Data\bin\Debug\netcoreapp2.1\ImageGallery.Data.runtimeconfig.dev.json
+D:\Programming\C#\ImageGallery\ImageGallery.Data\bin\Debug\netcoreapp2.1\ImageGallery.Data.pdb
+D:\Programming\C#\ImageGallery\ImageGallery.Data\obj\Debug\netcoreapp2.1\ImageGallery.Data.dll
+D:\Programming\C#\ImageGallery\ImageGallery.Data\obj\Debug\netcoreapp2.1\ImageGallery.Data.pdb
+D:\Programming\C#\ImageGallery\ImageGallery.Data\obj\Debug\netcoreapp2.1\ImageGallery.Data.csprojAssemblyReference.cache

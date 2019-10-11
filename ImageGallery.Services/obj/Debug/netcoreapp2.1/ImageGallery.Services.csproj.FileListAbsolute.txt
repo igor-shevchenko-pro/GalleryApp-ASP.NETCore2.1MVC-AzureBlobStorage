@@ -1,0 +1,11 @@
+D:\Programming\C#\ImageGallery\ImageGallery.Services\bin\Debug\netcoreapp2.1\ImageGallery.Services.deps.json
+D:\Programming\C#\ImageGallery\ImageGallery.Services\bin\Debug\netcoreapp2.1\ImageGallery.Services.dll
+D:\Programming\C#\ImageGallery\ImageGallery.Services\bin\Debug\netcoreapp2.1\ImageGallery.Services.pdb
+D:\Programming\C#\ImageGallery\ImageGallery.Services\bin\Debug\netcoreapp2.1\ImageGallery.Data.dll
+D:\Programming\C#\ImageGallery\ImageGallery.Services\bin\Debug\netcoreapp2.1\ImageGallery.Data.pdb
+D:\Programming\C#\ImageGallery\ImageGallery.Services\obj\Debug\netcoreapp2.1\ImageGallery.Services.csprojAssemblyReference.cache
+D:\Programming\C#\ImageGallery\ImageGallery.Services\obj\Debug\netcoreapp2.1\ImageGallery.Services.AssemblyInfoInputs.cache
+D:\Programming\C#\ImageGallery\ImageGallery.Services\obj\Debug\netcoreapp2.1\ImageGallery.Services.AssemblyInfo.cs
+D:\Programming\C#\ImageGallery\ImageGallery.Services\obj\Debug\netcoreapp2.1\ImageGallery.Services.csproj.CopyComplete
+D:\Programming\C#\ImageGallery\ImageGallery.Services\obj\Debug\netcoreapp2.1\ImageGallery.Services.dll
+D:\Programming\C#\ImageGallery\ImageGallery.Services\obj\Debug\netcoreapp2.1\ImageGallery.Services.pdb
